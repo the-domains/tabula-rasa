@@ -1,0 +1,14 @@
+layout_spectrum: 0.46169175836257637
+typography_spectrum: 0.36507938080467284
+color:
+  brandStrength: 0.27652354747988284
+  lightness: 0.751991187222302
+  saturation: 0.3411454202141613
+  rhythmicContrast: 0.9745540409348905
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#A0D0DE'
+    - '#7F7507'
+    - '#CCC143'
+name: Tabula rasa
