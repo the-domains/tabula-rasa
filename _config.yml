@@ -6,9 +6,9 @@ color:
   saturation: 0.3411454202141613
   rhythmicContrast: 0.9745540409348905
   brandColors:
-    - '#FFFFFF'
-    - '#000000'
-    - '#A0D0DE'
-    - '#7F7507'
-    - '#CCC143'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: Tabula rasa
